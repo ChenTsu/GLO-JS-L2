@@ -1,0 +1,19 @@
+{
+  "name": "glo-js-l2",
+  "version": "1.0.0",
+  "description": "js thread 4.0 lesson 2 homework",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenTsu/GLO-JS-L2.git"
+  },
+  "author": "Yan Vaidakovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenTsu/GLO-JS-L2/issues"
+  },
+  "homepage": "https://github.com/ChenTsu/GLO-JS-L2#readme"
+}
